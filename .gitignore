@@ -1,3 +1,4 @@
-MusicPlayer.spec
-build 
+test.py
+build
 dist
+MusicPlayer.spec
